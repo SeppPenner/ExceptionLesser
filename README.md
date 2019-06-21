@@ -13,7 +13,6 @@ The project was written and tested in .NetCore 3.0.
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/ExceptionLesser/badge.svg)](https://snyk.io/test/github/SeppPenner/ExceptionLesser)
 
 ## Current status
-
 Waiting for a first release of .NetCore 3.0 and a production ready Blazor.
 
 Change history
